@@ -1,0 +1,11 @@
+name: CoronaVirus
+main: de.eternalwings.bukkit.zombiecorona.CoronaVirusPlugin
+version: '1.0'
+author: kumpelblase2
+commands:
+  start:
+    description: starts the game
+    usage: /start
+  join:
+    description: join the next game
+    usage: /join
